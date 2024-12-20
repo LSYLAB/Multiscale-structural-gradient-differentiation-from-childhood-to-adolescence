@@ -25,8 +25,6 @@ The source code for our analysis is provided in the code folder. We used the fol
 
 All data are available in Releases (https://zenodo.org/records/14440214), , which includes individual structural connectivity features (MPC, TS, and GD), multiscale structural gradients, cortical morphology principal component 1 (PC1), structural-functional connectivity (SC-FC) coupling, global gradient measures, and their corresponding age-effect results from generalized additive models (GAMs). AHBA gene expression data, processed using the abagen toolbox, was also provided. Neuroimaging data of all participants were obtained from the Children School Functions and Brain Development project (CBD, Beijing Cohort). All data were based on the Schaefer 1000 atlas.
 
-Neuroimaging data of all participants were obtained from the Children School Functions and Brain Development project (CBD, Beijing Cohort). All data are based on the Schaefer 1000 atlas.
-
 
 ## References
 
